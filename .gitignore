@@ -1,0 +1,7 @@
+# Standard folders
+venv/
+__pycache__/
+.idea/
+
+# Environment file
+.env
