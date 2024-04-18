@@ -73,9 +73,10 @@ python main.py
         3.2 A reading command (e.g., Read), use connection.fetchall().
 
 ## References
-Obs: All videos below are in portuguese.
-###### (Playlist) Basic course of SQL: https://www.youtube.com/playlist?list=PLpdAy0tYrnKw_F8v6kkEXTeyE33Navv-K
-###### (Video) CRUD in Python: https://www.youtube.com/watch?v=_q3j25ACmQ4
+###### (Playlist BR-pt) Basic course of SQL: https://www.youtube.com/playlist?list=PLpdAy0tYrnKw_F8v6kkEXTeyE33Navv-K
+###### (Playlist BR-pt) SQL Database: https://www.youtube.com/playlist?list=PL5-p3nxLCOSXsvrzsTzZhObfmE7wulwhU
+###### (Video BR-pt) CRUD in Python: https://www.youtube.com/watch?v=_q3j25ACmQ4
+###### (Video US-en) How to Make and Use an ERD/EER Diagram in MYSQL Workbench: https://www.youtube.com/watch?v=tEhGIYN4vic
 
 <!-- SVG Typing -->
 <p align="center"><br /><br />
