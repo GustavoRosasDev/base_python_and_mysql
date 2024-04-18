@@ -72,6 +72,11 @@ python main.py
         3.1 An editing command (e.g., Create, Update, or Delete), use: connection.commit().
         3.2 A reading command (e.g., Read), use connection.fetchall().
 
+## References
+Obs: All videos below are in portuguese.
+###### (Playlist) Basic course of SQL: https://www.youtube.com/playlist?list=PLpdAy0tYrnKw_F8v6kkEXTeyE33Navv-K
+###### (Video) CRUD in Python: https://www.youtube.com/watch?v=_q3j25ACmQ4
+
 <!-- SVG Typing -->
 <p align="center"><br /><br />
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4285F4&center=true&random=false&width=435&lines=Keep+Learning.+Keep+Developing!" alt="Typing SVG">
